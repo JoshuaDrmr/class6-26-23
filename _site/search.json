@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Median age",
+    "section": "",
+    "text": "Getting data from the 2010 decennial Census\n\n\nWarning: • You have not set a Census API key. Users without a key are limited to 500\nqueries per day and may experience performance limitations.\nℹ For best results, get a Census API key at\nhttp://api.census.gov/data/key_signup.html and then supply the key to the\n`census_api_key()` function to use it throughout your tidycensus session.\nThis warning is displayed once per session.\n\n\nUsing Census Summary File 1"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
